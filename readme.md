@@ -1,4 +1,4 @@
-# 🧪 number-merge-ts-project
+# number-merge-ts-project
 
 วิธี run project
 
